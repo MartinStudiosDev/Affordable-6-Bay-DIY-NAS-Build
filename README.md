@@ -51,7 +51,7 @@ This documentation contains the necessary information to complete the build. How
 - 4 × 236.5 mm  
 - 2 × 212.5 mm  
 
-A quality electronic screwdriver kit with interchangeable bits is strongly recommended for assembly.
+A quality electronic screwdriver kit with interchangeable bits is strongly recommended for assembly. I can't recommend [this](https://amzn.to/3ZBrws1) one enough :)
 
 ---
 
@@ -83,7 +83,7 @@ Using the NVMe slot allows for an M.2-to-6×SATA controller, enabling the system
 
 ## Power Supply Considerations
 
-The included PSU mounting bracket is designed around standard Flex ATX dimensions. While it should fit most Flex PSUs, fitment is only guaranteed for the specific model used in this build (link to be added).
+The included PSU mounting bracket is designed around standard Flex ATX dimensions. While it should fit most Flex PSUs, fitment is only guaranteed for the specific model used in this build. YOu can find it [here](https://amzn.to/4tF5a6t)!
 
 Because mechanical HDDs draw significant amperage during spin-up, especially when multiple drives start simultaneously, a high-quality and properly rated power supply is critical.
 
@@ -99,7 +99,7 @@ The rocker switch functions by bridging the appropriate two wires on the 20-pin 
 
 The mini PC retains its own independent power input and onboard power button.
 
-If you are not comfortable modifying ATX wiring, prebuilt 20-pin jumper switches with integrated power buttons are widely available online.
+If you are not comfortable modifying ATX wiring, prebuilt 20-pin jumper switches with integrated power buttons are widely available online. [Here])(https://amzn.to/4tF5a6t) is an example of a good pick. 
 
 ---
 
