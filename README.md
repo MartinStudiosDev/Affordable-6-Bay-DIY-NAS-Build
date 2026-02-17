@@ -1,5 +1,7 @@
 # Affordable 6-Bay DIY NAS Build
 
+[](NAS.Image.jpg)
+
 ## Overview
 
 This project documents my custom 6-bay NAS designed to provide a competitive alternative to off-the-shelf NAS solutions such as Synology and QNAP, while maintaining a compact and aesthetically clean form factor.
