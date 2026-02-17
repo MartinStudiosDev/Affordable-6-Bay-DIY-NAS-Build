@@ -83,7 +83,7 @@ Using the NVMe slot allows for an M.2-to-6×SATA controller, enabling the system
 
 ## Power Supply Considerations
 
-The included PSU mounting bracket is designed around standard Flex ATX dimensions. While it should fit most Flex PSUs, fitment is only guaranteed for the specific model used in this build. You can find it [here](https://amzn.to/4tF5a6t)!
+The included PSU mounting bracket is designed around standard Flex ATX dimensions. While it should fit most Flex PSUs, fitment is only guaranteed for the specific model used in this build. You can find it [here](https://amzn.to/4tF5a6t) or use the cheaper, modular version found [here](https://amzn.to/3OMDP2c)!
 
 Because mechanical HDDs draw significant amperage during spin-up, especially when multiple drives start simultaneously, a high-quality and properly rated power supply is critical.
 
