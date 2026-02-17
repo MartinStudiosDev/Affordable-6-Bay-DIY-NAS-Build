@@ -99,7 +99,7 @@ The rocker switch functions by bridging the appropriate two wires on the 20-pin 
 
 The mini PC retains its own independent power input and onboard power button.
 
-If you are not comfortable modifying ATX wiring, prebuilt 20-pin jumper switches with integrated power buttons are widely available online. [Here](https://amzn.to/4tF5a6t) is an example of a good pick. 
+If you are not comfortable modifying ATX wiring, prebuilt 20-pin jumper switches with integrated power buttons are widely available online. [Here](https://amzn.to/4kGWvN0) is an example of a good pick. 
 
 ---
 
