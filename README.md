@@ -67,7 +67,7 @@ A quality electronic screwdriver kit with interchangeable bits is strongly recom
 ## Electronics Configuration
 
 Your mini PC must support either:
-- A native PCIe slot, or  
+- A native PCIe slot with an HBA card, or  
 - NVMe over M.2 (recommended)
 
 For this build, I used an HP G405 G4 mini PC purchased for approximately $100 on eBay. It includes:
