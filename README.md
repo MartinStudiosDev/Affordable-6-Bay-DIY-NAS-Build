@@ -1,6 +1,6 @@
 # Affordable 6-Bay DIY NAS Build
 
-[](NAS.Image.jpg)
+![](NAS.Image.jpg)
 
 ## Overview
 
